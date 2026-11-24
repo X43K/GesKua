@@ -1,0 +1,21 @@
+{
+    "version": 1,
+    "settings": {
+        "maxConsecutive": 5,
+        "minRest": 12,
+        "exceptionDays": 6,
+        "exceptionRest": 48,
+        "reducedRestMin": 9,
+        "maxReducedRests": 3,
+        "freeDaysByMonth": {}
+    },
+    "drivers": [],
+    "vehicles": [],
+    "vehicleTypes": [],
+    "shifts": [],
+    "lines": [],
+    "holidays": [],
+    "absences": [],
+    "assignments": {},
+    "vehicleAssignments": {}
+}

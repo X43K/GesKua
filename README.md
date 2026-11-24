@@ -1,4 +1,4 @@
-<img src="images/logo.png" alt="GesKua · Personal y flota" width="460">
+<img src="https://github.com/X43K/GesKua/blob/c6502405e503cbc6737fea15fb67896808d1db27/images/logo.webp" alt="GesKua · Personal y flota" width="460">
 
 Aplicación web para planificar el trabajo de una plantilla de conductores: cuadrante
 mensual, altas y bajas de personal, ausencias, flota, turnos y métricas de

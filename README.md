@@ -718,13 +718,13 @@ debe dar de alta su propio personal, flota y turnos.
 ## Capturas
 
 
-<img src="https://github.com/X43K/ITVControl/blob/9e92a5770e969ec1b4de4d0f231d20bd77a7aae1/images/ejemplo2.webp" alt="Ejemplo 2">
+<img src="https://github.com/X43K/GesKua/blob/80beef302287610a4a1d1d5adc4df058e60cd424/images/1.webp" alt="Ejemplo 1">
 
-<img src="https://github.com/X43K/ITVControl/blob/9e92a5770e969ec1b4de4d0f231d20bd77a7aae1/images/ejemplo2.webp" alt="Ejemplo 2">
+<img src="https://github.com/X43K/GesKua/blob/80beef302287610a4a1d1d5adc4df058e60cd424/images/2.webp" alt="Ejemplo 2">
 
-<img src="https://github.com/X43K/ITVControl/blob/9e92a5770e969ec1b4de4d0f231d20bd77a7aae1/images/ejemplo2.webp" alt="Ejemplo 2">
+<img src="https://github.com/X43K/GesKua/blob/80beef302287610a4a1d1d5adc4df058e60cd424/images/3.webp" alt="Ejemplo 3">
 
-<img src="https://github.com/X43K/ITVControl/blob/9e92a5770e969ec1b4de4d0f231d20bd77a7aae1/images/ejemplo2.webp" alt="Ejemplo 2">
+<img src="https://github.com/X43K/GesKua/blob/80beef302287610a4a1d1d5adc4df058e60cd424/images/4.webp" alt="Ejemplo 4">
 
 ## Notas
 
